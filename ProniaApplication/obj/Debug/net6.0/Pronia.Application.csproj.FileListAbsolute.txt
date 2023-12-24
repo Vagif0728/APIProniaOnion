@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\ProniaOnion\ProniaApplication\obj\Debug\net6.0\Pronia.Application.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ProniaOnion\ProniaApplication\obj\Debug\net6.0\Pronia.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ProniaOnion\ProniaApplication\obj\Debug\net6.0\Pronia.Application.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ProniaOnion\ProniaApplication\obj\Debug\net6.0\Pronia.Application.AssemblyInfo.cs
+C:\Users\User\Desktop\ProniaOnion\ProniaApplication\obj\Debug\net6.0\Pronia.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ProniaOnion\ProniaApplication\obj\Debug\net6.0\Pronia.Application.MvcApplicationPartsAssemblyInfo.cache
